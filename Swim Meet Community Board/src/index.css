@@ -19,3 +19,12 @@ td {
 .time {
   height: 40px;
 }
+
+.event-card {
+    background-color: #a8b0bc;
+    border-radius: 7px;
+    padding: 1%;
+    margin: 1%;
+    width: 100%;
+    text-align: center;
+}
